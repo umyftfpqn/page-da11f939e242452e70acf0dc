@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.trnzsqp.cn/sitemap.xml
